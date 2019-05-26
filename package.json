@@ -1,0 +1,26 @@
+{
+  "name": "irtm-logger",
+  "version": "1.0.0",
+  "description": "irtm-logger saves all related data from each endpoint (request & response)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/irantom-engineering/irtm-logger.git"
+  },
+  "keywords": [
+    "logger",
+    "micro-services"
+  ],
+  "author": "AAH",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/irantom-engineering/irtm-logger/issues"
+  },
+  "homepage": "https://github.com/irantom-engineering/irtm-logger#readme",
+  "dependencies": {
+    "joi": "^14.3.1"
+  }
+}
